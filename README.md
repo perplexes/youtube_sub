@@ -12,4 +12,4 @@ Download somewheres and run:
 
     ruby youtube_sub.rb <username>
     
-Where <username> is your youtube user name, like mine is colincurtin.
+Where &lt;username&gt; is your youtube user name, like mine is colincurtin.
